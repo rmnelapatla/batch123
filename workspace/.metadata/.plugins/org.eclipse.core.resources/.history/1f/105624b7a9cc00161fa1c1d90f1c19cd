@@ -1,0 +1,13 @@
+package mytestng;
+
+public class mysimple {
+	
+	public void mydisplay(){
+		
+	}
+	
+	public static void main(String ara[]){
+		
+	}
+
+}

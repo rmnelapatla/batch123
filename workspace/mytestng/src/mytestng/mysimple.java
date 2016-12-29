@@ -6,7 +6,7 @@ public class mysimple {
 		
 
 		System.out.println("Hello");
-		
+		System.out.println("newline");
 
 		System.out.println("my test by ramana");
 
